@@ -36,6 +36,7 @@ def monopoly_with_fourth_tier
 	    :pieces => 4,
 	    :rent_in_dollars => 
 	    {
+	      :one_piece_owned=>25,
 	      
 	    }
 	#copy and past the monopoly hash you build in the previous method. We're going to add stuff to it here!
